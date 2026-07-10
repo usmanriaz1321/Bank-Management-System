@@ -89,5 +89,5 @@ This project helped in understanding:
 
 Muhammad Usman
 BSCS Student (2nd Semester)
-Aspiring Cybersecurity & Web Developer
+Aspiring AI & Web Development
 
